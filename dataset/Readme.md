@@ -1,1 +1,1 @@
-This dataset is teken from the kaggle. used in this project
+This dataset is taken from the kaggle. used in this project
